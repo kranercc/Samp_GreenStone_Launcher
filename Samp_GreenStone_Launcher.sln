@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Samp_GreenStone_Launcher", "Samp_GreenStone_Launcher\Samp_GreenStone_Launcher.csproj", "{26988CBA-048A-42B9-BADB-F2040B0614C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26988CBA-048A-42B9-BADB-F2040B0614C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26988CBA-048A-42B9-BADB-F2040B0614C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26988CBA-048A-42B9-BADB-F2040B0614C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26988CBA-048A-42B9-BADB-F2040B0614C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8C942BD-78E4-4A7D-8C75-E55B42EDE938}
+	EndGlobalSection
+EndGlobal
